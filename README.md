@@ -1,4 +1,4 @@
-# Study Session Planner for Students
+# Study Session and Interview Planner for Individuals
 
 An AI-powered study companion built on AWS PartyRock that generates personalised interview questions and study roadmaps for cloud roles.
 
@@ -8,9 +8,9 @@ An AI-powered study companion built on AWS PartyRock that generates personalised
 
 ## Overview
 
-The Study Session Planner is a no-code AI app built using AWS PartyRock. It is designed for students preparing for cloud certifications and entry-level cloud roles.
+The Study Session and Interview Planner is a no-code AI app built using AWS PartyRock. It is designed for students preparing for cloud certifications and entry-level cloud roles.
 
-You enter your target cloud role and experience level and the app generates two outputs instantly:
+You enter your target cloud role and experience level, and the app generates two outputs instantly:
 
 - **Personalised interview questions** tailored to your role and level
 - **A structured AWS study roadmap** with prioritised services and a weekly timeline
@@ -41,7 +41,7 @@ The app generates structured, role-specific interview questions instantly.
 ![Interview Questions](screenshots/02-interview-questions.png)
 
 ### Study Roadmap Prompt
-The AWS Study Roadmap widget ready for your input.
+The AWS Study Roadmap widget is ready for your input.
 
 ![Study Roadmap Prompt](screenshots/03-study-roadmap-prompt.png)
 

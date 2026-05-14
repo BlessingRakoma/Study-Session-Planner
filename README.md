@@ -31,22 +31,22 @@ You enter your target cloud role and experience level and the app generates two 
 ## Screenshots
 
 ### Input Screen
-> Enter your Cloud Role and Experience Level to get started.
+Enter your Cloud Role and Experience Level to get started.
 
 ![Input Screen](screenshots/01-input-screen.png)
 
 ### Interview Questions Output
-> The app generates structured, role-specific interview questions instantly.
+The app generates structured, role-specific interview questions instantly.
 
 ![Interview Questions](screenshots/02-interview-questions.png)
 
 ### Study Roadmap Prompt
-> The AWS Study Roadmap widget ready for your input.
+The AWS Study Roadmap widget ready for your input.
 
 ![Study Roadmap Prompt](screenshots/03-study-roadmap-prompt.png)
 
 ### Study Roadmap Output
-> A prioritised weekly roadmap with services ranked by importance.
+ A prioritised weekly roadmap with services ranked by importance.
 
 ![Study Roadmap Output](screenshots/04-study-roadmap-output.png)
 
